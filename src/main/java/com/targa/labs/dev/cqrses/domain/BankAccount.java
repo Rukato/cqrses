@@ -1,4 +1,4 @@
-package com.targa.labs.dev.cqrses.entities;
+package com.targa.labs.dev.cqrses.domain;
 
 import java.math.BigDecimal;
 import java.util.UUID;
